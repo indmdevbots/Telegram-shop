@@ -964,3 +964,4 @@ async def broadcast_availability_to_all_users(context: ContextTypes.DEFAULT_TYPE
         await notify_admin(context, admin_message)
     except Exception as e:
         logger.error(f"Failed to notify admin: {e}")
+#By InDMDev

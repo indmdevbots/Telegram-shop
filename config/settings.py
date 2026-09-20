@@ -51,4 +51,4 @@ def validate_settings():
         raise ValueError("ADMIN_TELEGRAM_ID is required in .env file")
 
     print("[OK] Configuration validated successfully")
-#By InDMDev
+#From InDMDev

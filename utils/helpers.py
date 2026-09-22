@@ -158,4 +158,4 @@ def clear_ban_cache(telegram_id: int = None):
         _ban_cache.clear()
     elif telegram_id in _ban_cache:
         del _ban_cache[telegram_id]
-#By InDMDev
+#From InDMDev

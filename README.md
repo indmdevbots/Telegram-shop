@@ -391,4 +391,4 @@ Released under the [MIT License](LICENSE).
 > InDMDev is not and will not be responsible for any illegal activity/activities you indulge in using any of our programs.
 
 
-#From InDMDev
+#By InDMDev

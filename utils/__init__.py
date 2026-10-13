@@ -33,4 +33,4 @@ __all__ = [
     'create_admin_user_menu_keyboard', 'create_admin_order_menu_keyboard',
     'create_admin_settings_menu_keyboard', 'create_admin_broadcast_menu_keyboard'
 ]
-#By InDMDev
+#From InDMDev

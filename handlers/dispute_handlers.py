@@ -311,4 +311,4 @@ async def admin_resolve_dispute_callback(update: Update, context: ContextTypes.D
         f"User has been notified.",
         reply_markup=reply_markup
     )
-#By InDMDev
+#From InDMDev

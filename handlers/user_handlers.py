@@ -575,4 +575,4 @@ async def back_to_products_callback(update: Update, context: ContextTypes.DEFAUL
     """Handle back to products - show category list."""
     # Just redirect to products_callback
     await products_callback(update, context)
-#By InDMDev
+#From InDMDev

@@ -195,4 +195,4 @@ class CryptoBotService:
             import traceback
             traceback.print_exc()
             return False
-#By InDMDev
+#From InDMDev
